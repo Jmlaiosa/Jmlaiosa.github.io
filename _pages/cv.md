@@ -27,7 +27,7 @@ Work experience
   * Duties included: Making and serving food
   * Supervisor: Jen Ricker
 
-* Summer 2017: Togo Manager
+* Fall 2017: Togo Manager
   * Outback, PrinceFredrick
   * Duties included: Bagging and Monitoring food 
   * Supervisor: Bunrat Lim

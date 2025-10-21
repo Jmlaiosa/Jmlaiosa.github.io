@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Associate's Degree in Science, University of Southern Maryland
-* B.A. in Geo Spatial Systems, University of Maryland Baltimore County, 2025
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Geo Spatial Systems, University of Maryland, Baltimore County, 2025
+* Certificate in GiScience, University of Maryland, Baltimore County, 2025
 
 Work experience
 ======

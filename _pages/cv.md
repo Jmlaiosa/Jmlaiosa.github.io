@@ -17,20 +17,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2014: Lifeguard
+  * Chesapeake Beach
+  * Duties includes: Watching Water
+  * Supervisor: N/A
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2016: Fry Guy
+  * Butckets Sports Bar
+  * Duties included: Making and serving food
+  * Supervisor: Jen Ricker
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Togo Manager
+  * Outback, PrinceFredrick
+  * Duties included: Bagging and Monitoring food 
+  * Supervisor: Bunrat Lim
   
 Skills
 ======
